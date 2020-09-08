@@ -1,3 +1,3 @@
 Prosta gra arkanoid napisana w C#.
 
-!(arkanoid.png)
+![Background](arkanoid.png)
